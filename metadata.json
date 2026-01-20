@@ -1,0 +1,7 @@
+{
+  "name": "TW News Nexus",
+  "description": "Advanced Taiwan-focused news aggregator with a hidden terminal mode, powered by Gemini AI and Google Search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
